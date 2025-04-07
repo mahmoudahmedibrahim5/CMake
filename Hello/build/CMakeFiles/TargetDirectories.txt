@@ -1,0 +1,6 @@
+/home/alien/Desktop/Embedded/CMake/Hello/build/CMakeFiles/main.dir
+/home/alien/Desktop/Embedded/CMake/Hello/build/CMakeFiles/edit_cache.dir
+/home/alien/Desktop/Embedded/CMake/Hello/build/CMakeFiles/rebuild_cache.dir
+/home/alien/Desktop/Embedded/CMake/Hello/build/lib/CMakeFiles/lib.dir
+/home/alien/Desktop/Embedded/CMake/Hello/build/lib/CMakeFiles/edit_cache.dir
+/home/alien/Desktop/Embedded/CMake/Hello/build/lib/CMakeFiles/rebuild_cache.dir
